@@ -1,0 +1,3 @@
+Accessing query params on a GET requires a bit of a dance with Rocket.
+
+Hopefully this will remind future me how to do this.
